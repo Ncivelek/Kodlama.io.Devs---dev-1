@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4v/UzgSm/6nuQNzVmg7tDCY5D1Ec09UagKRmpsLYa+xVidJHCWDUAMd94ddXvD9l5n9a8TSoGWAxgj2Q21cvyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nurullah.civelek\\source\\repos\\Kodlama.io.Devs\\src\\Kodlama.io.Devs\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://172.20.92.28/nuget/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
