@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ldlb9f3uiSKueZU/ojm6ogk5Sq2L62WUsUKSCEAugRTnHiKlv5he0aKtCFozn5ja5WlC73ihKixHyV2Ug2rRiw==",
+  "dgSpecHash": "2BsW707UlivEhySOMqFR6+wGvnMOgNTyQyHWc0Yfs5oLzheSdyLQHQYPKEdxZOiPGJiqUyDR8RTUS4m2cy5Uxg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nurullah.civelek\\source\\repos\\Kodlama.io.Devs\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj",
+  "projectFilePath": "C:\\Users\\nurullah.civelek\\Documents\\GitHub\\Kodlama.io.Devs1\\Kodlama.io.Devs\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nurullah.civelek\\.nuget\\packages\\elasticsearch.net\\7.17.0\\elasticsearch.net.7.17.0.nupkg.sha512",
     "C:\\Users\\nurullah.civelek\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",

@@ -13,17 +13,9 @@ namespace Persistence.Contexts
     {
         protected IConfiguration Configuration { get; set; }
 
-        private DbSet<Language> languages;
+        public DbSet<Language> Languages { get; set; }
 
-        public DbSet<Language> GetLanguages()
-        {
-            return languages;
-        }
-
-        public void SetLanguages(DbSet<Language> value)
-        {
-            languages = value;
-        }
+        public DbSet<Technology> Technologies { get; set; }
 
         public BaseDbContext(DbContextOptions dbContextOptions, IConfiguration configuration) : base(dbContextOptions)
         {
@@ -46,8 +38,21 @@ namespace Persistence.Contexts
                 a.Property(p => p.Name).HasColumnName("Name");
             });
 
+            modelBuilder.Entity<Technology>(x =>
+            {
+                x.ToTable("Technologies").HasKey(k => k.Id);
+                x.Property(p => p.Id).HasColumnName("Id");
+                x.Property(p => p.LanguageId).HasColumnName("LanguageId");
+                x.Property(p => p.Name).HasColumnName("Name");
+                x.HasOne(p => p.Language);
+            });
+
+
             Language[] languageEntitySeeds = { new(1, "C#"), new(2, "Java"), new(3, "Python") };
             modelBuilder.Entity<Language>().HasData(languageEntitySeeds);
+
+            Technology[] technolgyEntitySeeds = { new(1, 1, "ASP.Net"), new(2, 1, "WPF"), new(3, 2, "Spring"), new(4, 2, "JSP") };
+            modelBuilder.Entity<Technology>().HasData(technolgyEntitySeeds);
         }
     }
 }

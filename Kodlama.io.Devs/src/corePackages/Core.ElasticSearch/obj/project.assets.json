@@ -498,11 +498,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nurullah.civelek\\source\\repos\\Kodlama.io.Devs\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj",
+      "projectUniqueName": "C:\\Users\\nurullah.civelek\\Documents\\GitHub\\Kodlama.io.Devs1\\Kodlama.io.Devs\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj",
       "projectName": "Core.ElasticSearch",
-      "projectPath": "C:\\Users\\nurullah.civelek\\source\\repos\\Kodlama.io.Devs\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj",
+      "projectPath": "C:\\Users\\nurullah.civelek\\Documents\\GitHub\\Kodlama.io.Devs1\\Kodlama.io.Devs\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj",
       "packagesPath": "C:\\Users\\nurullah.civelek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nurullah.civelek\\source\\repos\\Kodlama.io.Devs\\src\\corePackages\\Core.ElasticSearch\\obj\\",
+      "outputPath": "C:\\Users\\nurullah.civelek\\Documents\\GitHub\\Kodlama.io.Devs1\\Kodlama.io.Devs\\src\\corePackages\\Core.ElasticSearch\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nurullah.civelek\\AppData\\Roaming\\NuGet\\NuGet.Config",

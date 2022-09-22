@@ -6003,11 +6003,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nurullah.civelek\\source\\repos\\Kodlama.io.Devs\\src\\Kodlama.io.Devs\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\nurullah.civelek\\Documents\\GitHub\\Kodlama.io.Devs1\\Kodlama.io.Devs\\src\\Kodlama.io.Devs\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "C:\\Users\\nurullah.civelek\\source\\repos\\Kodlama.io.Devs\\src\\Kodlama.io.Devs\\Persistence\\Persistence.csproj",
+      "projectPath": "C:\\Users\\nurullah.civelek\\Documents\\GitHub\\Kodlama.io.Devs1\\Kodlama.io.Devs\\src\\Kodlama.io.Devs\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\nurullah.civelek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nurullah.civelek\\source\\repos\\Kodlama.io.Devs\\src\\Kodlama.io.Devs\\Persistence\\obj\\",
+      "outputPath": "C:\\Users\\nurullah.civelek\\Documents\\GitHub\\Kodlama.io.Devs1\\Kodlama.io.Devs\\src\\Kodlama.io.Devs\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nurullah.civelek\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6024,11 +6024,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\nurullah.civelek\\source\\repos\\Kodlama.io.Devs\\src\\Kodlama.io.Devs\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\nurullah.civelek\\source\\repos\\Kodlama.io.Devs\\src\\Kodlama.io.Devs\\Application\\Application.csproj"
+            "C:\\Users\\nurullah.civelek\\Documents\\GitHub\\Kodlama.io.Devs1\\Kodlama.io.Devs\\src\\Kodlama.io.Devs\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\nurullah.civelek\\Documents\\GitHub\\Kodlama.io.Devs1\\Kodlama.io.Devs\\src\\Kodlama.io.Devs\\Application\\Application.csproj"
             },
-            "C:\\Users\\nurullah.civelek\\source\\repos\\Kodlama.io.Devs\\src\\Kodlama.io.Devs\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\nurullah.civelek\\source\\repos\\Kodlama.io.Devs\\src\\Kodlama.io.Devs\\Domain\\Domain.csproj"
+            "C:\\Users\\nurullah.civelek\\Documents\\GitHub\\Kodlama.io.Devs1\\Kodlama.io.Devs\\src\\Kodlama.io.Devs\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\nurullah.civelek\\Documents\\GitHub\\Kodlama.io.Devs1\\Kodlama.io.Devs\\src\\Kodlama.io.Devs\\Domain\\Domain.csproj"
             }
           }
         }

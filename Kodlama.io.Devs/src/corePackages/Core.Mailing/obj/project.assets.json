@@ -409,11 +409,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nurullah.civelek\\source\\repos\\Kodlama.io.Devs\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj",
+      "projectUniqueName": "C:\\Users\\nurullah.civelek\\Documents\\GitHub\\Kodlama.io.Devs1\\Kodlama.io.Devs\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj",
       "projectName": "Core.Mailing",
-      "projectPath": "C:\\Users\\nurullah.civelek\\source\\repos\\Kodlama.io.Devs\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj",
+      "projectPath": "C:\\Users\\nurullah.civelek\\Documents\\GitHub\\Kodlama.io.Devs1\\Kodlama.io.Devs\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj",
       "packagesPath": "C:\\Users\\nurullah.civelek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nurullah.civelek\\source\\repos\\Kodlama.io.Devs\\src\\corePackages\\Core.Mailing\\obj\\",
+      "outputPath": "C:\\Users\\nurullah.civelek\\Documents\\GitHub\\Kodlama.io.Devs1\\Kodlama.io.Devs\\src\\corePackages\\Core.Mailing\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nurullah.civelek\\AppData\\Roaming\\NuGet\\NuGet.Config",

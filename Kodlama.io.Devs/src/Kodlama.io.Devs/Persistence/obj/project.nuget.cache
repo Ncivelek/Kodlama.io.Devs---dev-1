@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Myts40XccKHDKiCtVCITyNYDTC6BeFYWzjt43G8h+GUfWJH5pK+FuQJ3nyqqejVC+pCP1HyTudENhXyDbwMtUA==",
+  "dgSpecHash": "RJrveFBIXkG64vuHvXo4ksr0hxzWcq68UPnE3kxcj9fQvD0xoiCGUkOf6fkYP2Q34aZDObNxtg5FX9HebwvQqw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nurullah.civelek\\source\\repos\\Kodlama.io.Devs\\src\\Kodlama.io.Devs\\Persistence\\Persistence.csproj",
+  "projectFilePath": "C:\\Users\\nurullah.civelek\\Documents\\GitHub\\Kodlama.io.Devs1\\Kodlama.io.Devs\\src\\Kodlama.io.Devs\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nurullah.civelek\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\nurullah.civelek\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

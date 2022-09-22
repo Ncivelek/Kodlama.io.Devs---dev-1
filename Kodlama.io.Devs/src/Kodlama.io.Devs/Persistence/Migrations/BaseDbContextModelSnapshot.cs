@@ -49,7 +49,79 @@ namespace Persistence.Migrations
                         {
                             Id = 2,
                             Name = "Java"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Name = "Python"
                         });
+                });
+
+            modelBuilder.Entity("Domain.Entities.Technology", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasColumnName("Id");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+
+                    b.Property<int>("LanguageId")
+                        .HasColumnType("int")
+                        .HasColumnName("LanguageId");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)")
+                        .HasColumnName("Name");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("LanguageId");
+
+                    b.ToTable("Technologies", (string)null);
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            LanguageId = 1,
+                            Name = "ASP.Net"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            LanguageId = 1,
+                            Name = "WPF"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            LanguageId = 2,
+                            Name = "Spring"
+                        },
+                        new
+                        {
+                            Id = 4,
+                            LanguageId = 2,
+                            Name = "JSP"
+                        });
+                });
+
+            modelBuilder.Entity("Domain.Entities.Technology", b =>
+                {
+                    b.HasOne("Domain.Entities.Language", "Language")
+                        .WithMany("Technologies")
+                        .HasForeignKey("LanguageId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Language");
+                });
+
+            modelBuilder.Entity("Domain.Entities.Language", b =>
+                {
+                    b.Navigation("Technologies");
                 });
 #pragma warning restore 612, 618
         }

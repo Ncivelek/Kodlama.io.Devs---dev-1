@@ -22,3 +22,15 @@ C:\Users\nurullah.civelek\source\repos\Kodlama.io.Devs\src\corePackages\Core.Per
 C:\Users\nurullah.civelek\source\repos\Kodlama.io.Devs\src\corePackages\Core.Persistence\obj\Debug\net6.0\refint\Core.Persistence.dll
 C:\Users\nurullah.civelek\source\repos\Kodlama.io.Devs\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.pdb
 C:\Users\nurullah.civelek\source\repos\Kodlama.io.Devs\src\corePackages\Core.Persistence\obj\Debug\net6.0\ref\Core.Persistence.dll
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.Persistence\bin\Debug\net6.0\Core.Persistence.deps.json
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.Persistence\bin\Debug\net6.0\Core.Persistence.dll
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.Persistence\bin\Debug\net6.0\Core.Persistence.pdb
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.csproj.AssemblyReference.cache
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.AssemblyInfoInputs.cache
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.AssemblyInfo.cs
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.dll
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.Persistence\obj\Debug\net6.0\refint\Core.Persistence.dll
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.pdb
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.Persistence\obj\Debug\net6.0\ref\Core.Persistence.dll

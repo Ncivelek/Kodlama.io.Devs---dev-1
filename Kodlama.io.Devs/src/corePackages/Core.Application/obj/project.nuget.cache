@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HxvD0+ODpgJAkVBEFl5fmBJfkUShvGe26XS36LuJX3jejJHIPWkla6J6IHURx+O4fyvRhLWL32E3frnF2rpA2A==",
+  "dgSpecHash": "nm8qa8JFBRs2lP89oEzSyXU9SK/TOBrxej4cryxW7JXglKro+ThLlaJq00ZMtE241OqwprFGpUSQzfIj3qBzfw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nurullah.civelek\\source\\repos\\Kodlama.io.Devs\\src\\corePackages\\Core.Application\\Core.Application.csproj",
+  "projectFilePath": "C:\\Users\\nurullah.civelek\\Documents\\GitHub\\Kodlama.io.Devs1\\Kodlama.io.Devs\\src\\corePackages\\Core.Application\\Core.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nurullah.civelek\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
     "C:\\Users\\nurullah.civelek\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.6\\fluentvalidation.dependencyinjectionextensions.10.3.6.nupkg.sha512",

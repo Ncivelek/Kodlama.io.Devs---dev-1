@@ -22,3 +22,15 @@ C:\Users\nurullah.civelek\source\repos\Kodlama.io.Devs\src\corePackages\Core.Cro
 C:\Users\nurullah.civelek\source\repos\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\refint\Core.CrossCuttingConcerns.dll
 C:\Users\nurullah.civelek\source\repos\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.pdb
 C:\Users\nurullah.civelek\source\repos\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\ref\Core.CrossCuttingConcerns.dll
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\bin\Debug\net6.0\Core.CrossCuttingConcerns.deps.json
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\bin\Debug\net6.0\Core.CrossCuttingConcerns.dll
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\bin\Debug\net6.0\Core.CrossCuttingConcerns.pdb
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.csproj.AssemblyReference.cache
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.AssemblyInfoInputs.cache
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.AssemblyInfo.cs
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.csproj.CoreCompileInputs.cache
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.dll
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\refint\Core.CrossCuttingConcerns.dll
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.pdb
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\ref\Core.CrossCuttingConcerns.dll

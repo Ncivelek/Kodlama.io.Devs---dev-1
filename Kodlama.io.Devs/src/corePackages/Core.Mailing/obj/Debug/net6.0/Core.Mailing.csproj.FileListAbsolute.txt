@@ -22,3 +22,15 @@ C:\Users\nurullah.civelek\source\repos\Kodlama.io.Devs\src\corePackages\Core.Mai
 C:\Users\nurullah.civelek\source\repos\Kodlama.io.Devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\refint\Core.Mailing.dll
 C:\Users\nurullah.civelek\source\repos\Kodlama.io.Devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.pdb
 C:\Users\nurullah.civelek\source\repos\Kodlama.io.Devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\ref\Core.Mailing.dll
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.Mailing\bin\Debug\net6.0\Core.Mailing.deps.json
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.Mailing\bin\Debug\net6.0\Core.Mailing.dll
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.Mailing\bin\Debug\net6.0\Core.Mailing.pdb
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.csproj.AssemblyReference.cache
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.AssemblyInfoInputs.cache
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.AssemblyInfo.cs
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.csproj.CoreCompileInputs.cache
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.dll
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\refint\Core.Mailing.dll
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.pdb
+C:\Users\nurullah.civelek\Documents\GitHub\Kodlama.io.Devs1\Kodlama.io.Devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\ref\Core.Mailing.dll

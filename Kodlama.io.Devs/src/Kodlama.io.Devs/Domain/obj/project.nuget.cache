@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "adqk0v0wT71IHytvbIrZaALT3zUcyYvx1mBN2SMrgNyxfMaK+QHiDrhdnJGgypKQ1/iCodxMrVvYIozgzJcMKA==",
+  "dgSpecHash": "TMqe7xcRR/f0gJZWYYejFslR5+w+Vha1PaGJUFRpT37vLBri/nJepQZuy3PAy16s+QcyKJ/UR30PQm6tC7Y7nw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nurullah.civelek\\source\\repos\\Kodlama.io.Devs\\src\\Kodlama.io.Devs\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\nurullah.civelek\\Documents\\GitHub\\Kodlama.io.Devs1\\Kodlama.io.Devs\\src\\Kodlama.io.Devs\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nurullah.civelek\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.1\\microsoft.entityframeworkcore.6.0.1.nupkg.sha512",
     "C:\\Users\\nurullah.civelek\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.1\\microsoft.entityframeworkcore.abstractions.6.0.1.nupkg.sha512",
