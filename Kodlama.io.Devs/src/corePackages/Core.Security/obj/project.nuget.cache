@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cobcHoYpnp2rGiLnhZMl54B90pKPnlT5uUfDREA6JTPF/MflYIQjdP1T+KMiLF8ZaVOYxhq2z/5CgGjfu9Kyyg==",
+  "dgSpecHash": "aCVQ1AFHS3VUrYCtKZJr2QuS1TtK5ENgTE3jtMx713fL383Gk8NH8glFsAa+t1HjzxpM4X59lXSXT2tpNYriJA==",
   "success": true,
   "projectFilePath": "C:\\Users\\nurullah.civelek\\Documents\\GitHub\\Kodlama.io.Devs1\\Kodlama.io.Devs\\src\\corePackages\\Core.Security\\Core.Security.csproj",
   "expectedPackageFiles": [
@@ -29,12 +29,5 @@
     "C:\\Users\\nurullah.civelek\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\nurullah.civelek\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://172.20.92.28/nuget/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  "logs": []
 }

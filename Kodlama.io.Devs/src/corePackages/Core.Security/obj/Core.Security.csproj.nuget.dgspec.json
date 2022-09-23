@@ -21,7 +21,7 @@
           "net6.0"
         ],
         "sources": {
-          "http://172.20.92.28/nuget/nuget": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -86,7 +86,7 @@
           "net6.0"
         ],
         "sources": {
-          "http://172.20.92.28/nuget/nuget": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

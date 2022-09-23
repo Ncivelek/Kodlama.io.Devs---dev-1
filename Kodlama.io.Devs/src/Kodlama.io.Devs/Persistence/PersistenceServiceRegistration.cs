@@ -23,6 +23,10 @@ namespace Persistence
             services.AddScoped<ILanguageRepository, LanguageRepository>();
             services.AddScoped<ITechnologyRepository, TechnologyRepository>();
 
+            services.AddScoped<IUserOperationClaimRepository, UserOperationClaimRepository>();
+            services.AddScoped<IUserRepository, UserRepository>();
+            services.AddScoped<IUserSocialMediaAddressRepository, UserSocialMediaAddressRepository>();
+
             return services;
         }
     }

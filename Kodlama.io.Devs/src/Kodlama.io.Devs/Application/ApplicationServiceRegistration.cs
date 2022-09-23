@@ -1,5 +1,7 @@
 ﻿using Application.Features.Brands.Rules;
 using Application.Features.Technologies.Rules;
+using Application.Features.Users.Rules;
+using Application.Features.UserSocialMediaAddresses.Rules;
 using Core.Application.Pipelines.Validation;
 using FluentValidation;
 using MediatR;
@@ -23,6 +25,8 @@ namespace Application
 
             services.AddScoped<LanguageBusinessRules>();
             services.AddScoped<TechnologyBusinessRules>();
+            services.AddScoped<UserBusinessRules>();
+            services.AddScoped<UserSocialMediaAddressBusinessRule>();
 
             services.AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());
             //services.AddTransient(typeof(IPipelineBehavior<,>), typeof(AuthorizationBehavior<,>));

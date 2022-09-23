@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Hl4KkcA6qB/ua4m53fl68f3lCGJxHOReqiDOodZ7KcVezR2cpCAb/8nIMcx1qQ/UrBT3iEYgXMdTyapdxULQow==",
+  "dgSpecHash": "CXBojpAju9I1m+zvbpPtXGI0Q+DdygMZIgZt7J72DXgf6G1WGFQ8Llb5xL9OtHz5AETQf/EuBBb3id5FwAi+Zg==",
   "success": true,
   "projectFilePath": "C:\\Users\\nurullah.civelek\\Documents\\GitHub\\Kodlama.io.Devs1\\Kodlama.io.Devs\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
   "expectedPackageFiles": [
@@ -20,12 +20,5 @@
     "C:\\Users\\nurullah.civelek\\.nuget\\packages\\system.linq.dynamic.core\\1.2.17\\system.linq.dynamic.core.1.2.17.nupkg.sha512",
     "C:\\Users\\nurullah.civelek\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://172.20.92.28/nuget/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  "logs": []
 }

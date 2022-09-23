@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2BsW707UlivEhySOMqFR6+wGvnMOgNTyQyHWc0Yfs5oLzheSdyLQHQYPKEdxZOiPGJiqUyDR8RTUS4m2cy5Uxg==",
+  "dgSpecHash": "9iztfe19EcnAfgxjQVqH4kBAYPxBpROOE/RIdS7tvRfgAXTW4/2KTH5xQ1awCjhhucoa8t1Z4ah8c3ny4K0jLw==",
   "success": true,
   "projectFilePath": "C:\\Users\\nurullah.civelek\\Documents\\GitHub\\Kodlama.io.Devs1\\Kodlama.io.Devs\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj",
   "expectedPackageFiles": [
@@ -16,12 +16,5 @@
     "C:\\Users\\nurullah.civelek\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
     "C:\\Users\\nurullah.civelek\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://172.20.92.28/nuget/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  "logs": []
 }

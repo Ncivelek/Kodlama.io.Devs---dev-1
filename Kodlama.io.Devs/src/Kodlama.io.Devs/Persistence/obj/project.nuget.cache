@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "RJrveFBIXkG64vuHvXo4ksr0hxzWcq68UPnE3kxcj9fQvD0xoiCGUkOf6fkYP2Q34aZDObNxtg5FX9HebwvQqw==",
+  "dgSpecHash": "Jp8r8zJgwk+p4OiasNNFXNpUe8Uq3rMWor4nALnfiLD7UFxBeVqk5hKUxltIM4MR6c06DP8yOhiDIIb5tkH2vQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\nurullah.civelek\\Documents\\GitHub\\Kodlama.io.Devs1\\Kodlama.io.Devs\\src\\Kodlama.io.Devs\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
@@ -118,12 +118,5 @@
     "C:\\Users\\nurullah.civelek\\.nuget\\packages\\system.xml.readerwriter\\4.0.11\\system.xml.readerwriter.4.0.11.nupkg.sha512",
     "C:\\Users\\nurullah.civelek\\.nuget\\packages\\system.xml.xdocument\\4.0.11\\system.xml.xdocument.4.0.11.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://172.20.92.28/nuget/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  "logs": []
 }
